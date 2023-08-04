@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.AgeCalculator" parent="Theme.MaterialComponents.DayNight">
+        <!-- Change the color for the app bar -->
+        <item name="android:statusBarColor">#EFAC48</item>
+        <item name="colorPrimary">#EFAC48</item>
+    </style>
+
+    <!-- Apply the theme to the whole app -->
+    <style name="Theme.AgeCalculator" parent="Base.Theme.AgeCalculator" />
+</resources>
